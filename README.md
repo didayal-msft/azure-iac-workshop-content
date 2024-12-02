@@ -4,7 +4,7 @@
 
 This repository contains labs to help people learn how to write and work with infrastructure as code in Azure. If you're new to Infrastructure as Code, start by reviewing the following [IaC concepts](https://learn.microsoft.com/en-us/training/modules/introduction-to-infrastructure-as-code-using-bicep/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.bicep-deploy-manage).
 
-Custom labs, open-hack style challenges and other content will be added overtime.
+Custom labs, open-hack style challenges and other content will be added overtime. Added changes here.
 
 > *Note:* Currently the repository only provides learning guidance for developing IaC in Bicep using related Microsoft tooling.
 
